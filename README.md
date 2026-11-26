@@ -1,5 +1,3 @@
-Markdown
-
 # SecOps Hardening & Compliance Playbook (`secops-hardening-and-compliance-playbook`)
 
 > **Cadre technique et documentaire d'architecture** — Traduction des exigences de résilience, de protection des données et de conformité (**ISO 27001**, **HDS**, **RGPD**) en pratiques opérationnelles reproductibles.
